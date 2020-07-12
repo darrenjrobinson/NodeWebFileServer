@@ -29,6 +29,6 @@ write-output "	File Server Port: $($port)"
 ```
 
 ## Links
-![](https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=16)[Blog](https://blog.darrenjrobinson.com)
+![](https://wpcom.files.wordpress.com/2017/11/cropped-wordpress.png?w=16) [Blog](https://blog.darrenjrobinson.com)
 
-![](http://twitter.com/favicon.ico)[Twitter](https://twitter.com/darrenjrobinson)
+![](http://twitter.com/favicon.ico) [Twitter](https://twitter.com/darrenjrobinson)
